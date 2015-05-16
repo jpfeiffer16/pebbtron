@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "joepfeiffer16@gmail.com",
+    "longName": "PebbTron",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon32x32.png",
+                "menuIcon": true,
+                "name": "ICON_SMALL",
+                "type": "png"
+            },
+            {
+                "file": "images/icon.png",
+                "name": "ICON_BIKES",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "PebbTron",
+    "uuid": "352d49d3-5f18-4e55-a09e-537b68a06565",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
